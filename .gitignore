@@ -1,0 +1,7 @@
+.idea
+api/env
+api/__pycache__
+training/.ipynb_checkpoints
+training/PlantVillage/
+
+
